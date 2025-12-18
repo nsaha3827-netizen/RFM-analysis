@@ -15,4 +15,4 @@ This project analyzes customer behavior using RFM (Recency, Frequency, Monetary)
 ## Files
 - rfm_analysis.ipynb
 - dataset.csv
-- presentation.pptx
+- RFM analysis.pptx
